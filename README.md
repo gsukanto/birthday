@@ -22,10 +22,13 @@ For deploying, just put `index.html` behind webserver/cloud hosting.
 
 This project have following structure:
 
+```
 .
 ├── README.md
 ├── css
-│   ├── loading.css
+│   ├── bootstrap.min.css
+│   ├── cake.css
+│   ├── signika.css
 │   └── stylesheet.css
 ├── images
 │   ├── Balloon-Border.png
@@ -51,11 +54,12 @@ This project have following structure:
 │   └── vine.png
 ├── index.html
 ├── js
-│   ├──  effect.js
-│   └── cake.less
-├── loading.css
+│   ├── effect.js
+│   ├── jquery.min.js
+│   └── less.min.js
 └── medias
-      └── hbd.mp3
+    └── hbd.mp3
+```
 
 
 ## Coding Guidelines
